@@ -4,7 +4,7 @@
 #  Skrip Manajemen Klien ZeroTier dengan Menu di Ubuntu           #
 # ================================================================= #
 #                      Dibuat oleh Hadi                             #
-#         (Dimodifikasi dengan penambahan menu oleh Gemini)         #
+#         (Dimodifikasi dengan penambahan menu)         #
 # ================================================================= #
 
 # Periksa apakah skrip dijalankan sebagai root
